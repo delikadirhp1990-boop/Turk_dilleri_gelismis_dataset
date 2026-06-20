@@ -1,4 +1,4 @@
-# Türk Dilleri Dil Verisi Yönetim Sistemi
+# Türk Dilleri Dil Verisi Yönetim Sistemi (Masaüstü Uygulaması)
 
 Bu proje; Türkçe başta olmak üzere Kazakça, Özbekçe, Türkmence gibi çağdaş Türk dillerine ait dil bilgisi, etimoloji, sözdizimi, fonetik ve söz varlığı verilerini **yapay zekâ destekli** olarak yönetmek için geliştirilmiş **cross‑platform** bir sistemdir.
 
